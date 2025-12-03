@@ -22,7 +22,7 @@ Atualmente, faço parte da equipe de Data & IA na Porto - Porto Bank, onde atuo 
 
 | **Visualização & BI** | <br>
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) 
-![Looker](https://img.shields.io/badge/Looker-000000?style=for-the-badge&logo=looker&logoColor=purple)
+![Looker](https://img.shields.io/badge/Looker-000000?style=for-the-badge&logo=looker&logoColor=green)
 
 | **Banco de Dados & Redes** | <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -31,7 +31,8 @@ Atualmente, faço parte da equipe de Data & IA na Porto - Porto Bank, onde atuo 
 | **Projetos & IoT (Extra)** | <br>
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
 
-🎓 Jornada de Aprendizagem
+
+## 🎓 Jornada de Aprendizagem
 
 Ciência de Dados - Universidade Federal do Mato Grosso do Sul
 Análise e Desenvolvimento de Sistemas - ETEC Albert Einstein 
