@@ -7,34 +7,28 @@ Atualmente, faço parte da equipe de Data & IA na Porto - Porto Bank, onde atuo 
 
 ### 🛠️ Minha Caixa de Ferramentas Técnicas 🛠️ 
 
-### ⚙️ O Toolkit da Cientista (Tech Stack)
 
+| **Linguagens & Consulta** |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0077B6?style=for-the-badge&logo=sas&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-| :--- | :--- | :--- |
-| **Linguagens & Consulta** | **Python**, **SAS** e **SQL** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-0077B6?style=for-the-badge&logo=sas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Cloud & Engenharia (GCP)** | [cite_start]**GCP** (Vertex, **BigQuery** [cite: 35][cite_start] [cite: 35]) e **Databricks**  | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) |
-| **Visualização & BI** | **Power BI** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) |
-| **Banco de Dados & Redes** | **MySQL** e **Packet Tracer**| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-00B900?style=for-the-badge&logo=cisco&logoColor=white) |
-| **Projetos & IoT (Extra)** | **Arduino** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
+| **Cloud & Engenharia (GCP)** | 
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+| **Visualização & BI** |
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) 
+![Looker](https://img.shields.io/badge/Looker-000000?style=for-the-badge&logo=looker&logoColor=green)
+
+| **Banco de Dados & Redes** |
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-00B900?style=for-the-badge&logo=cisco&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) - Essa aqui é meu ponto forte! PS.: Por isso ela tá em primeiro, rs
+| **Projetos & IoT (Extra)** |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-
-![SAS](https://img.shields.io/badge/SAS-0077B6?style=for-the-badge&logo=sas&logoColor=white) 
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-<br> 
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
 
 🎓 Jornada de Aprendizagem
 
@@ -43,5 +37,5 @@ Análise e Desenvolvimento de Sistemas - ETEC Albert Einstein
 
 👋  Vamos Construir o Futuro com Dados!
 Gostaria de discutir sobre um novo projeto maluco com ideias ainda mais malucas? Me encontre:
-✉️ Email: CONTATOHELENAMARTINEZ@GMAIL.COM 📞
+✉️ Email: CONTATOHELENAMARTINEZ@GMAIL.COM
 🔗 LinkedIn: https://www.linkedin.com/in/helenaguedesm/
