@@ -8,13 +8,13 @@ Atualmente, faço parte da equipe de Data & IA na Porto - Porto Bank, onde atuo 
 ### 🛠️ Minha Caixa de Ferramentas Técnicas 🛠️ 
 
 
-| **Linguagens & Consulta** |
+| **Linguagens & Consulta** | <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-0077B6?style=for-the-badge&logo=sas&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-| **Cloud & Engenharia (GCP)** | 
+| **Cloud & Engenharia (GCP)** | <br>
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
