@@ -13,21 +13,22 @@ Atualmente, faço parte da equipe de Data & IA na Porto - Porto Bank, onde atuo 
 ![SAS](https://img.shields.io/badge/SAS-0077B6?style=for-the-badge&logo=sas&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 | **Cloud & Engenharia (GCP)** | <br>
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-| **Visualização & BI** |
+| **Visualização & BI** | <br>
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) 
-![Looker](https://img.shields.io/badge/Looker-000000?style=for-the-badge&logo=looker&logoColor=green)
+![Looker](https://img.shields.io/badge/Looker-000000?style=for-the-badge&logo=looker&logoColor=purple)
 
-| **Banco de Dados & Redes** |
+| **Banco de Dados & Redes** | <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-00B900?style=for-the-badge&logo=cisco&logoColor=white)
 
-| **Projetos & IoT (Extra)** |
-
+| **Projetos & IoT (Extra)** | <br>
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
 
 🎓 Jornada de Aprendizagem
